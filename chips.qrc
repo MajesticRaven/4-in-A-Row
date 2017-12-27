@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/chips/1chip.png</file>
+        <file>resources/images/chips/2chip.png</file>
+        <file>resources/images/chips/3chip.png</file>
+        <file>resources/images/chips/4chip.png</file>
+        <file>resources/images/chips/5chip.png</file>
+        <file>resources/images/chips/6chip.png</file>
+        <file>resources/images/chips/7chip.png</file>
+        <file>resources/images/chips/8chip.png</file>
+    </qresource>
+</RCC>

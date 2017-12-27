@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/exit_eng.png</file>
+        <file>resources/images/exit_rus.png</file>
+        <file>resources/images/russian flag.png</file>
+        <file>resources/images/usa_flag.png</file>
+        <file>resources/images/sound_off.png</file>
+        <file>resources/images/sound_on.png</file>
+        <file>resources/images/start_en.png</file>
+        <file>resources/images/start_ru.png</file>
+        <file>resources/images/back_en.png</file>
+        <file>resources/images/back_rus.png</file>
+        <file>resources/images/save_en.png</file>
+        <file>resources/images/save_rus.png</file>
+        <file>resources/StyleSheet.qss</file>
+    </qresource>
+</RCC>

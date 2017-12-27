@@ -1,0 +1,5 @@
+QMessageBox
+{
+	background-color:#fff1dc;
+	font: 14pt "Comic Sans MS";
+}
